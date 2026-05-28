@@ -1,0 +1,73 @@
+Build me a bilingual (Arabic + English) AI blog website. Requirements:
+
+Design & Structure:
+
+	•	Clean, modern design with dark/light mode toggle
+	•	Homepage with hero section and latest blog posts grid
+	•	Each post has: title, date, category tag, short description, and thumbnail
+	•	Navigation bar with: Home, Articles, About, Contact, and language switcher (AR/EN)
+	•	Arabic text should be right-to-left (RTL), English left-to-right (LTR)
+	•	Categories like: AI Tools, Tutorials, News, Opinion
+	•	Footer with social media links and Privacy Policy link
+	•	Use HTML, CSS, and vanilla JavaScript only (no frameworks)
+	•	Make it fully responsive for mobile and desktop
+
+Pages:
+
+	•	Homepage
+	•	Blog post page (individual article)
+	•	About page describing the blog and author
+	•	Contact page with a contact form
+	•	Privacy Policy page with AdSense-ready content explaining cookies and data collection
+
+Content:
+
+	•	3 sample blog posts about AI topics, minimum 800 words each
+	•	Each post has: unique H1, author name, publish date, category, focus keyword used naturally
+	•	Proper headings (H2, H3), bullet points, and conclusion in each article
+	•	Table of Contents at the top of each article
+	•	Related Posts section at the bottom of each article
+	•	Internal links between related articles
+
+SEO:
+
+	•	Title tag: “AI Blog | مدونة الذكاء الاصطناعي”
+	•	Unique meta description per page in Arabic and English
+	•	Keywords: artificial intelligence, AI tools, machine learning, ChatGPT, مدونة ذكاء اصطناعي, أدوات الذكاء الاصطناعي, تعلم الآلة, شات جي بي تي, AI tutorials, deep learning
+	•	Open Graph tags for social sharing
+	•	Canonical URL tag
+	•	Lang attribute that switches based on selected language
+	•	Schema markup (JSON-LD) on every blog post: Article type with headline, author, datePublished, image, description
+	•	WebSite schema with SearchAction on homepage
+	•	sitemap.xml listing all pages
+	•	robots.txt allowing all crawlers
+
+Analytics:
+
+	•	Google Analytics 4 placeholder with comment showing where to insert measurement ID
+	•	Google Search Console meta tag placeholder with comment showing where to insert verification code
+
+Google AdSense Compliance:
+
+	•	Cookie consent banner on first visit with Accept/Decline buttons
+	•	ads.txt placeholder file with comment to add publisher ID later
+	•	No pop-ups or intrusive elements
+	•	No copyrighted images — use placeholder images from picsum.photos
+	•	Clean professional layout with good whitespace
+	•	Original unique content per article, no duplicate content
+	•	Fast loading — no unnecessary heavy libraries
+
+Social & Growth:
+
+	•	Social share buttons (Twitter/X, Facebook, LinkedIn, WhatsApp) on each article page
+	•	Email newsletter signup section on homepage and at the end of each article
+
+Additional:
+
+	•	Generate a realistic content calendar as a separate page or file suggesting 20 blog post ideas with titles, focus keywords, and target audience for an AI blog
+	•	Add a search bar on the homepage that filters blog posts by title or category
+	•	Add pagination or “Load More” button on the homepage
+	•	Add a reading time estimate on each article (e.g. “5 min read”)
+	•	Add a scroll progress bar at the top of each article page
+	•	Add a back-to-top button on all pages
+	•	Add print-friendly CSS for article pages
