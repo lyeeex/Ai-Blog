@@ -1,3 +1,1 @@
-# Placeholder ads.txt file
-# Replace with actual publisher IDs when ready
-# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-1386630262985152, DIRECT, f08c47fec0942fa0
