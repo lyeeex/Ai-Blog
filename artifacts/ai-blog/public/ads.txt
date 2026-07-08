@@ -1,1 +1,1 @@
-# Add your Google AdSense publisher ID here: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fef0c4d0d
+google.com, pub-1386630262985152, DIRECT, f08c47fec0942fa0
